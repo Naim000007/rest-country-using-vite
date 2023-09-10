@@ -1,0 +1,9 @@
+.desh-container{
+    background-color: bisque;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 30px;
+}
+.desh-container img{
+    width: 100px;
+}
